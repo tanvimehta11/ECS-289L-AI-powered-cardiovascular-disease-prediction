@@ -11,8 +11,11 @@ Another key goal is to examine the generalization capability of these predictive
 To address the challenges in heart disease prediction, we have formulated the following research questions:
 
 RQ1: What patterns and correlations among clinical parameters (e.g., age, cholesterol, blood pressure, ECG results) are most strongly associated with the severity of cardiovascular disease, and how can these insights inform clinical prioritization or resource allocation?
+
 RQ2: Do deep learning architectures specifically designed for tabular clinical data (e.g., Category Embedding Models, TabNet) outperform classical models in predictive accuracy for heart disease detection?
+
 RQ3: How well do predictive models trained on one clinical dataset perform when tested on a separate dataset with differing patient characteristics, and what does this indicate about their robustness for broader clinical deployment?
+
 RQ4: Based on the most accurate predictive model, how would early intervention strategies shift if high-risk individuals were identified using machine learning-based screening rather than traditional clinical scoring tools?
 
 The proposed research questions address key challenges in cardiovascular disease prediction by focusing on model interpretability, performance, generalization, and clinical impact. RQ1 aims to identify critical clinical factors influencing disease severity, enabling models to provide actionable insights for targeted interventions. RQ2 investigates whether advanced models for tabular data offer meaningful performance gains over traditional methods, validating their practical utility. RQ3 examines the generalization capabilities of predictive models across datasets with varying clinical characteristics, ensuring robustness for broader healthcare applications. Finally, RQ4 assesses how integrating machine learning-based screening could improve early detection and intervention strategies, leading to better patient outcomes and more efficient resource allocation.
