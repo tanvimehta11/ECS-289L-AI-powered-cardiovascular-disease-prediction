@@ -1,4 +1,4 @@
-1. Introduction  
+Introduction  
 Cardiovascular diseases (CVDs) remain the foremost cause of death globally, accounting for nearly 17.9 million fatalities each year, according to the World Health Organization. The asymptomatic progression of these conditions often delays diagnosis, making early detection essential for reducing risk and improving outcomes. Traditional diagnostic approaches rely on rule-based systems and predefined thresholds that may overlook complex, non-linear interactions among patient features.
 
 In response, machine learning (ML) and deep learning (DL) methods have gained momentum for their ability to uncover hidden patterns within clinical data. This project investigates a broad set of models including Logistic Regression, Random Forest, Support Vector Machines, K-Nearest Neighbors, Gaussian Process Classifier, LightGBM, TabNet, and categorical embedding networks, to assess their effectiveness in predicting heart disease from structured patient information.
