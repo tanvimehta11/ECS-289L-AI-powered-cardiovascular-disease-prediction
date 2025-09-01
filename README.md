@@ -18,3 +18,7 @@ RQ3: How well do predictive models trained on one clinical dataset perform when 
 RQ4: How can overfitting and lack of interpretability be addressed in the development of predictive models for cardiovascular disease, and how might these improvements impact early identification of high-risk individuals compared to traditional clinical scoring methods?
 
 These research questions aim to explore key aspects of applying machine learning to cardiovascular disease prediction: interpretability, generalization, model performance, and clinical applicability. RQ1 focuses on identifying which clinical features are most strongly linked to disease severity, helping models provide insights that can support patient care decisions. RQ2 investigates whether deep learning models designed for tabular data can offer measurable performance improvements over traditional methods when evaluated on a benchmark dataset. RQ3 examines the ability of models to generalize across datasets with different patient populations, which is essential for safe and scalable deployment. Finally, RQ4 addresses the challenges of overfitting and lack of interpretability and how they can contribute to building models that are both reliable and clinically transparent. This would further lead to better patient outcomes and more efficient resource allocation.
+
+
+Team Members:
+Tanvi Mehta, Savali Deshmukh, Shivani Suryawanshi
